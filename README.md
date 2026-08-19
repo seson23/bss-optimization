@@ -14,7 +14,7 @@ SoH(State of Health, 배터리 성능 상태) 등급별 고객 수요를 반영�
 
 ### 집합 (Sets)
 
- $S = \{1,\dots,NS\}$  BSS 집합
+ $S = \{1,\dots,NS\}$  BSS 집합 \\
  $H = \{1,\dots,NH\}$  배터리 SoH 등급 집합
  $C = S \cup \{0\}$  충전소 집합 (BSS + BCS)
  $T = \{1,\dots,NT\}$  시간대 집합
